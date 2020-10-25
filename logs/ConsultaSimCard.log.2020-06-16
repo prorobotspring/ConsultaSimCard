@@ -1,0 +1,30 @@
+[2020Jun16 22:44:37,193][INFO ][1592363677193][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584129878311</IMSI></SIMCard></RTBS_SLS_IN>]
+[2020Jun16 22:44:37,239][INFO ][1592363677193][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2020Jun16 22:44:37,241][INFO ][1592363677193][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2020Jun16 22:45:28,261][INFO ][1592363728261][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584129878311</IMSI></SIMCard></RTBS_SLS_IN>]
+[2020Jun16 22:45:28,277][INFO ][1592363728261][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2020Jun16 22:45:28,278][INFO ][1592363728261][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2020Jun16 22:53:06,342][INFO ][1592364186342][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584129878311</IMSI></SIMCard></RTBS_SLS_IN>]
+[2020Jun16 22:53:06,358][INFO ][1592364186342][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2020Jun16 22:53:06,359][INFO ][1592364186342][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]

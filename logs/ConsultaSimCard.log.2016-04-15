@@ -1,0 +1,529 @@
+[2016Apr15 09:14:31,364][INFO ][1460727871364][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584126016736</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 09:14:31,398][INFO ][1460727871364][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 09:14:31,399][INFO ][1460727871364][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 09:45:54,657][INFO ][1460729754657][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 09:45:54,675][INFO ][1460729754675][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 09:45:54,677][INFO ][1460729754657][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 09:45:54,685][INFO ][1460729754675][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:08:54,636][INFO ][1460731134636][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004435773</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:08:54,649][INFO ][1460731134636][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306271840461F</ICCID>
+		<PUK>21337021</PUK>
+		<PUK2>54450253</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:08:58,009][INFO ][1460731138009][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004435773</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:08:58,021][INFO ][1460731138009][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306271840461F</ICCID>
+		<PUK>21337021</PUK>
+		<PUK2>54450253</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:22:04,102][INFO ][1460731924102][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:22:04,114][INFO ][1460731924102][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:22:06,021][INFO ][1460731926021][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:22:06,034][INFO ][1460731926021][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:25:07,210][INFO ][1460732107210][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:25:07,222][INFO ][1460732107210][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:33:39,928][INFO ][1460732619928][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:33:39,949][INFO ][1460732619928][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:40:53,152][INFO ][1460733053152][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:40:53,164][INFO ][1460733053152][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 10:43:40,162][INFO ][1460733220162][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995272</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 10:43:40,174][INFO ][1460733220162][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865419F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 11:34:31,302][INFO ][1460736271302][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734594128083438</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 11:34:31,314][INFO ][1460736271302][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 11:34:31,316][INFO ][1460736271302][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 11:34:35,453][INFO ][1460736275452][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734594128083438</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 11:34:35,464][INFO ][1460736275452][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 11:34:35,465][INFO ][1460736275452][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 11:38:59,528][INFO ][1460736539528][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027003828215</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 11:38:59,540][INFO ][1460736539528][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020902183160054F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 11:39:02,653][INFO ][1460736542653][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027003828215</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 11:39:02,665][INFO ][1460736542653][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020902183160054F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 11:51:55,446][INFO ][1460737315446][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027003828215</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 11:51:55,481][INFO ][1460737315446][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020902183160054F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 14:24:35,119][INFO ][1460746475119][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027003551035</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 14:24:35,132][INFO ][1460746475119][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708293204991F</ICCID>
+		<PUK>10277488</PUK>
+		<PUK2>21444393</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:36:25,895][INFO ][1460750785895][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:36:26,351][INFO ][1460750785895][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:36:26,353][INFO ][1460750785895][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:36:30,735][INFO ][1460750790735][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:36:30,746][INFO ][1460750790735][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:36:30,748][INFO ][1460750790735][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:44:29,063][INFO ][1460751269063][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:44:29,747][INFO ][1460751269063][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:44:29,749][INFO ][1460751269063][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:44:33,971][INFO ][1460751273971][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:44:33,982][INFO ][1460751273971][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:44:33,983][INFO ][1460751273971][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:45:16,076][INFO ][1460751316076][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:45:16,088][INFO ][1460751316076][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:45:17,489][INFO ][1460751317489][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:45:17,500][INFO ][1460751317489][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:45:57,920][INFO ][1460751357920][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:45:57,932][INFO ][1460751357920][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:45:59,735][INFO ][1460751359735][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:45:59,748][INFO ][1460751359735][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:47:28,522][INFO ][1460751448522][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:47:28,534][INFO ][1460751448522][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:49:11,812][INFO ][1460751551812][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:49:11,824][INFO ][1460751551812][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:49:16,432][INFO ][1460751556432][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:49:16,444][INFO ][1460751556432][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:49:32,182][INFO ][1460751572182][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:49:32,194][INFO ][1460751572182][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:50:46,064][INFO ][1460751646064][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:50:46,076][INFO ][1460751646064][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:50:46,077][INFO ][1460751646064][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:50:50,585][INFO ][1460751650585][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:50:50,596][INFO ][1460751650585][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:50:50,598][INFO ][1460751650585][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:51:34,159][INFO ][1460751694158][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:51:34,170][INFO ][1460751694158][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:51:34,171][INFO ][1460751694158][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:51:38,503][INFO ][1460751698503][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:51:38,515][INFO ][1460751698503][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:51:38,516][INFO ][1460751698503][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:51:43,915][INFO ][1460751703915][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734584128083439</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:51:43,926][INFO ][1460751703915][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr15 15:51:43,928][INFO ][1460751703915][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 15:52:13,826][INFO ][1460751733826][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004828561</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 15:52:13,839][INFO ][1460751733826][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405201398309F</ICCID>
+		<PUK>56134844</PUK>
+		<PUK2>38016034</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 16:15:40,551][INFO ][1460753140551][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 16:15:40,558][INFO ][1460753140558][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 16:15:40,564][INFO ][1460753140551][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 16:15:40,568][INFO ][1460753140558][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 16:15:52,534][INFO ][1460753152534][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 16:15:52,546][INFO ][1460753152534][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 16:15:52,777][INFO ][1460753152777][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004995273</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr15 16:15:52,787][INFO ][1460753152777][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021405230865427F</ICCID>
+		<PUK>19855312</PUK>
+		<PUK2>41300521</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2016Apr15 16:40:48,765][INFO ][1460754648765][doPost RTBSSLSServlet.java:60][XML Recibido: null]
+[2016Apr15 16:40:48,768][ERROR][1460754648765][processRequest FCController.java:140][Codigo de Error: RTBS_SLS_EM0050 Mensaje de Error: Error generico]
+java.lang.NullPointerException
+	at java.io.StringReader.<init>(StringReader.java:33)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2016Apr15 16:40:48,771][INFO ][1460754648765][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>RTBS_SLS_EM0050</Code>
+		<Detail>Error genericonull</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]

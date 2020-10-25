@@ -1,0 +1,38 @@
+[2015Jul18 17:34:23,864][INFO ][1437257063864][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734584120156445</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Jul18 17:34:23,896][INFO ][1437257063864][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Jul18 17:34:23,897][INFO ][1437257063864][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Jul18 17:40:08,907][INFO ][1437257408907][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734584120156445</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Jul18 17:40:08,918][INFO ][1437257408907][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Jul18 17:40:08,920][INFO ][1437257408907][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]

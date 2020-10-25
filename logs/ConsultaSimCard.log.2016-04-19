@@ -1,0 +1,64 @@
+[2016Apr19 18:44:09,135][INFO ][1461107649135][doPost RTBSSLSServlet.java:60][XML Recibido: null]
+[2016Apr19 18:44:09,138][ERROR][1461107649135][processRequest FCController.java:140][Codigo de Error: RTBS_SLS_EM0050 Mensaje de Error: Error generico]
+java.lang.NullPointerException
+	at java.io.StringReader.<init>(StringReader.java:33)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2016Apr19 18:44:09,141][INFO ][1461107649135][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>RTBS_SLS_EM0050</Code>
+		<Detail>Error genericonull</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2016Apr19 18:46:07,959][INFO ][1461107767959][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+<Login>String</Login>
+<Channel>SIEBEL</Channel>
+<System>SIEBEL</System>
+<SIMCard>
+<IMSI>73402500421987</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>]
+[2016Apr19 18:46:07,997][INFO ][1461107767959][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2016Apr19 18:46:07,998][INFO ][1461107767959][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2016Apr19 18:53:12,125][INFO ][1461108192125][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027004516684</IMSI></SIMCard></RTBS_SLS_IN>]
+[2016Apr19 18:53:12,146][INFO ][1461108192125][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306272699577F</ICCID>
+		<PUK>21337021</PUK>
+		<PUK2>54450253</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]

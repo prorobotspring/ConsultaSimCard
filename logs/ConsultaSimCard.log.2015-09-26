@@ -1,0 +1,48 @@
+[2015Sep26 00:06:14,235][INFO ][1443242174235][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?><RTBS_SLS_IN><Login>String</Login><Channel>IVR</Channel><System>IVR</System><SIMCard><IMSI></IMSI></SIMCard></RTBS_SLS_IN>]
+[2015Sep26 00:06:14,262][INFO ][1443242174235][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Sep26 00:06:14,263][INFO ][1443242174235][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Sep26 00:32:12,657][INFO ][1443243732656][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734024020502663</IMSI></SIMCard></RTBS_SLS_IN>]
+[2015Sep26 00:32:12,676][INFO ][1443243732656][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306200176433F</ICCID>
+		<PUK>21337021</PUK>
+		<PUK2>54450253</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Sep26 00:32:13,084][INFO ][1443243733084][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734024020502663</IMSI></SIMCard></RTBS_SLS_IN>]
+[2015Sep26 00:32:13,095][INFO ][1443243733084][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306200176433F</ICCID>
+		<PUK>21337021</PUK>
+		<PUK2>54450253</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Sep26 01:06:58,154][INFO ][1443245818154][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?><RTBS_SLS_IN><Login>String</Login><Channel>IVR</Channel><System>IVR</System><SIMCard><IMSI></IMSI></SIMCard></RTBS_SLS_IN>]
+[2015Sep26 01:06:58,165][INFO ][1443245818154][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Sep26 01:06:58,166][INFO ][1443245818154][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]

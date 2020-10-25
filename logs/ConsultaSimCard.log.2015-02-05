@@ -1,0 +1,4043 @@
+[2015Feb05 09:04:43,873][INFO ][1423143283873][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:04:43,913][INFO ][1423143283873][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:04:43,945][INFO ][1423143283944][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:04:43,956][INFO ][1423143283944][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:08:50,526][INFO ][1423143530526][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:08:50,538][INFO ][1423143530526][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 09:08:50,540][INFO ][1423143530526][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:12:04,907][INFO ][1423143724907][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734027003985227</IMSI></SIMCard></RTBS_SLS_IN>]
+[2015Feb05 09:12:04,919][INFO ][1423143724907][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304151365097F</ICCID>
+		<PUK>10277488</PUK>
+		<PUK2>21444393</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:44:54,524][INFO ][1423145694524][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734025120120027</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:44:54,536][INFO ][1423145694524][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306202600320F</ICCID>
+		<PUK>41596503</PUK>
+		<PUK2>39434735</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:44:56,425][INFO ][1423145696425][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734025120120027</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:44:56,437][INFO ][1423145696425][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306202600320F</ICCID>
+		<PUK>41596503</PUK>
+		<PUK2>39434735</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:45:06,847][INFO ][1423145706847][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734025120120027</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:45:06,859][INFO ][1423145706847][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306202600320F</ICCID>
+		<PUK>41596503</PUK>
+		<PUK2>39434735</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 09:45:08,664][INFO ][1423145708664][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734025120120027</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 09:45:08,676][INFO ][1423145708664][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021306202600320F</ICCID>
+		<PUK>41596503</PUK>
+		<PUK2>39434735</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:29:36,943][INFO ][1423151976943][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:29:36,955][INFO ][1423151976943][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:29:38,958][INFO ][1423151978958][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:29:38,970][INFO ][1423151978958][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:39:14,265][INFO ][1423152554265][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:39:14,277][INFO ][1423152554265][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:45:15,380][INFO ][1423152915380][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734027003985219</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:45:15,393][INFO ][1423152915380][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304151365014F</ICCID>
+		<PUK>95123302</PUK>
+		<PUK2>08795129</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:46:21,479][INFO ][1423152981479][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:46:21,491][INFO ][1423152981479][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:46:21,583][INFO ][1423152981583][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:46:21,594][INFO ][1423152981583][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:56:14,201][INFO ][1423153574201][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:56:14,213][INFO ][1423153574201][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:56:17,123][INFO ][1423153577123][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:56:17,135][INFO ][1423153577123][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 11:57:42,102][INFO ][1423153662102][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 11:57:42,114][INFO ][1423153662102][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 12:00:06,921][INFO ][1423153806921][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027009065890</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 12:00:06,943][INFO ][1423153806921][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021203073441310F</ICCID>
+		<PUK>49060599</PUK>
+		<PUK2>13346075</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 12:00:06,971][INFO ][1423153806971][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027009065890</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 12:00:06,982][INFO ][1423153806971][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021203073441310F</ICCID>
+		<PUK>49060599</PUK>
+		<PUK2>13346075</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 12:07:24,197][INFO ][1423154244197][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021123456789</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 12:07:24,208][INFO ][1423154244197][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 12:07:24,210][INFO ][1423154244197][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 12:08:22,223][INFO ][1423154302223][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 12:08:22,235][INFO ][1423154302223][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 12:16:14,455][INFO ][1423154774455][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 12:16:14,467][INFO ][1423154774455][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:44:10,765][INFO ][1423160050765][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:44:10,777][INFO ][1423160050765][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:44:15,594][INFO ][1423160055594][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:44:15,607][INFO ][1423160055594][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:46:26,253][INFO ][1423160186253][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:46:26,265][INFO ][1423160186253][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:54:39,073][INFO ][1423160679073][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:54:39,087][INFO ][1423160679073][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:55:49,188][INFO ][1423160749188][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:55:49,202][INFO ][1423160749188][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:55:51,180][INFO ][1423160751180][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:55:51,192][INFO ][1423160751180][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:58:08,513][INFO ][1423160888513][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:58:08,525][INFO ][1423160888513][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:59:29,304][INFO ][1423160969304][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:59:29,316][INFO ][1423160969304][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 13:59:31,355][INFO ][1423160971355][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 13:59:31,367][INFO ][1423160971355][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:02:14,663][INFO ][1423161134663][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:02:14,676][INFO ][1423161134663][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:23:14,295][INFO ][1423162394295][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:23:14,309][INFO ][1423162394295][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:23:14,311][INFO ][1423162394295][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:29:56,949][INFO ][1423162796949][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:29:56,961][INFO ][1423162796949][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:29:56,962][INFO ][1423162796949][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:32:50,016][INFO ][1423162970016][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:32:50,027][INFO ][1423162970016][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:32:50,029][INFO ][1423162970016][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:35:47,280][INFO ][1423163147280][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:35:47,292][INFO ][1423163147280][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:35:47,293][INFO ][1423163147280][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:38:03,988][INFO ][1423163283988][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:38:03,999][INFO ][1423163283988][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:38:04,001][INFO ][1423163283988][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:39:53,153][INFO ][1423163393152][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>IVR</Channel>
+	<System>IVR</System>
+<SIMCard>
+	<IMSI>734021011410999</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:39:53,165][INFO ][1423163393152][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 14:39:53,167][INFO ][1423163393152][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:46:22,667][INFO ][1423163782667][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:46:22,678][INFO ][1423163782667][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:46:58,247][INFO ][1423163818247][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:46:58,259][INFO ][1423163818247][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:47:10,075][INFO ][1423163830075][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASMOV</Channel>
+	<System>ASMOV</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:47:10,087][INFO ][1423163830075][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:51:36,650][INFO ][1423164096650][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:51:36,793][INFO ][1423164096650][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:51:39,953][INFO ][1423164099953][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:51:39,965][INFO ][1423164099953][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 14:58:25,550][INFO ][1423164505550][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 14:58:25,562][INFO ][1423164505550][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:06:09,048][INFO ][1423164969048][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:06:09,234][INFO ][1423164969048][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:06:58,222][INFO ][1423165018222][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:06:58,234][INFO ][1423165018222][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:07:00,245][INFO ][1423165020245][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:07:00,257][INFO ][1423165020245][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:08:10,384][INFO ][1423165090384][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:08:10,396][INFO ][1423165090384][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:08:10,751][INFO ][1423165090751][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:08:10,763][INFO ][1423165090751][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:09:06,879][INFO ][1423165146879][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:09:06,892][INFO ][1423165146879][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:09:08,870][INFO ][1423165148870][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:09:08,881][INFO ][1423165148870][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:12:00,976][INFO ][1423165320976][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:12:00,989][INFO ][1423165320976][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:17:54,921][INFO ][1423165674921][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:17:54,933][INFO ][1423165674921][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:27:11,014][INFO ][1423166231014][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:27:11,027][INFO ][1423166231014][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:28:37,161][INFO ][1423166317161][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:28:37,173][INFO ][1423166317161][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:28:39,612][INFO ][1423166319612][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:28:39,624][INFO ][1423166319612][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:30:58,621][INFO ][1423166458621][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:30:58,633][INFO ][1423166458621][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:31:03,438][INFO ][1423166463438][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:31:03,450][INFO ][1423166463438][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:31:51,380][INFO ][1423166511380][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:31:51,392][INFO ][1423166511380][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:31:51,780][INFO ][1423166511780][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:31:51,791][INFO ][1423166511780][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:34:52,592][INFO ][1423166692592][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:34:52,604][INFO ][1423166692592][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:34:56,414][INFO ][1423166696414][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:34:56,426][INFO ][1423166696414][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:40:03,379][INFO ][1423167003379][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:40:03,391][INFO ][1423167003379][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:40:12,291][INFO ][1423167012291][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:40:12,303][INFO ][1423167012291][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:40:21,685][INFO ][1423167021685][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASMOV</Channel>
+	<System>ASMOV</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:40:21,697][INFO ][1423167021685][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:41:29,783][INFO ][1423167089783][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:41:29,796][INFO ][1423167089783][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:44:19,337][INFO ][1423167259337][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:44:19,349][INFO ][1423167259337][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:44:58,168][INFO ][1423167298168][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:44:58,180][INFO ][1423167298168][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:45:00,109][INFO ][1423167300109][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:45:00,121][INFO ][1423167300109][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:46:55,213][INFO ][1423167415213][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:46:55,225][INFO ][1423167415213][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:46:55,292][INFO ][1423167415292][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:46:55,304][INFO ][1423167415292][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:46:57,589][INFO ][1423167417589][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:46:57,600][INFO ][1423167417589][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:48:40,860][INFO ][1423167520860][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:48:40,881][INFO ][1423167520860][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:52:29,906][INFO ][1423167749906][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:52:29,919][INFO ][1423167749906][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:52:32,216][INFO ][1423167752216][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:52:32,228][INFO ][1423167752216][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 15:58:25,893][INFO ][1423168105893][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 15:58:25,905][INFO ][1423168105893][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:00:24,368][INFO ][1423168224368][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734027003979020</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:00:24,379][INFO ][1423168224368][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304090763022F</ICCID>
+		<PUK>64320401</PUK>
+		<PUK2>22029549</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:04:28,998][INFO ][1423168468998][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:04:29,010][INFO ][1423168468998][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:07:06,515][INFO ][1423168626515][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:07:06,686][ERROR][1423168626515][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:07:06,691][INFO ][1423168626515][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:07:22,656][INFO ][1423168642656][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:07:22,664][ERROR][1423168642656][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:07:22,669][INFO ][1423168642656][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:17:51,169][INFO ][1423169271169][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734024020510026</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:17:51,177][ERROR][1423169271169][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:17:51,182][INFO ][1423169271169][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:19:49,665][INFO ][1423169389665][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:19:49,679][INFO ][1423169389665][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:19:52,053][INFO ][1423169392052][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:19:52,065][INFO ][1423169392052][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:21:39,721][INFO ][1423169499721][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:21:39,733][INFO ][1423169499721][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:37:52,286][INFO ][1423170472286][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>734022009588608</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:37:52,294][ERROR][1423170472286][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:37:52,299][INFO ][1423170472286][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:43:21,613][INFO ][1423170801613][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:43:21,621][ERROR][1423170801613][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:43:21,626][INFO ][1423170801613][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:51:02,717][INFO ][1423171262717][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 16:51:02,725][ERROR][1423171262717][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 16:51:02,730][INFO ][1423171262717][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:51:45,323][INFO ][1423171305323][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734023128596666</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:51:45,335][INFO ][1423171305323][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 16:51:45,336][INFO ][1423171305323][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:51:47,311][INFO ][1423171307311][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734023128596666</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:51:47,323][INFO ][1423171307311][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 16:51:47,324][INFO ][1423171307311][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:54:36,286][INFO ][1423171476286][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734027003979020</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:54:36,299][INFO ][1423171476286][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304090763022F</ICCID>
+		<PUK>64320401</PUK>
+		<PUK2>22029549</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:57:17,750][INFO ][1423171637750][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:57:17,761][INFO ][1423171637750][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:57:19,252][INFO ][1423171639252][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:57:19,263][INFO ][1423171639252][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:57:58,084][INFO ][1423171678084][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:57:58,097][INFO ][1423171678084][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:58:00,307][INFO ][1423171680307][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:58:00,320][INFO ][1423171680307][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 16:59:44,510][INFO ][1423171784510][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 16:59:44,522][INFO ][1423171784510][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:00:39,867][INFO ][1423171839867][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:00:39,879][INFO ][1423171839867][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:02:09,596][INFO ][1423171929596][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:02:09,608][INFO ][1423171929596][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:02:11,830][INFO ][1423171931830][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:02:11,842][INFO ][1423171931830][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:04:30,199][INFO ][1423172070199][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:04:30,211][INFO ][1423172070199][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:04:32,413][INFO ][1423172072413][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:04:32,424][INFO ][1423172072413][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:10:45,989][INFO ][1423172445989][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:10:46,000][INFO ][1423172445989][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:10:46,021][INFO ][1423172446021][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:10:46,033][INFO ][1423172446021][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:12:06,434][INFO ][1423172526434][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:12:06,445][INFO ][1423172526434][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:12:08,696][INFO ][1423172528696][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:12:08,708][INFO ][1423172528696][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:12:55,567][INFO ][1423172575567][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:12:55,579][INFO ][1423172575567][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:13:00,370][INFO ][1423172580370][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 17:13:00,378][ERROR][1423172580370][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 17:13:00,383][INFO ][1423172580370][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:14:14,554][INFO ][1423172654554][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734021007801990</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:14:14,566][INFO ][1423172654554][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 17:14:14,568][INFO ][1423172654554][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:14:18,761][INFO ][1423172658761][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734021007801990</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:14:18,773][INFO ][1423172658761][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 17:14:18,775][INFO ][1423172658761][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:14:35,738][INFO ][1423172675738][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734021009806846</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:14:35,750][INFO ][1423172675738][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 17:14:35,751][INFO ][1423172675738][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:15:01,654][INFO ][1423172701654][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>SIEBEL</Channel>
+	<System>SIEBEL</System>
+<SIMCard>
+	<IMSI>734021009806846</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:15:01,666][INFO ][1423172701654][processRequest FCController.java:231][El iccid solicitado no ha sido encontrado en la base de datos]
+[2015Feb05 17:15:01,667][INFO ][1423172701654][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS_OM0003</Code>
+		<Message>La informacion solicitada no ha sido encontrada en la base de datos</Message>
+	</OperationMessage>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:15:28,394][INFO ][1423172728393][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:15:28,408][INFO ][1423172728393][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:15:28,621][INFO ][1423172728621][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:15:28,632][INFO ][1423172728621][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:16:35,171][INFO ][1423172795171][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:16:35,183][INFO ][1423172795171][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:16:45,565][INFO ][1423172805565][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:16:45,577][INFO ][1423172805565][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:17:52,463][INFO ][1423172872463][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734027003514527</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:17:52,475][INFO ][1423172872463][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020708292839912F</ICCID>
+		<PUK>78361384</PUK>
+		<PUK2>36565919</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:18:43,548][INFO ][1423172923548][doPost RTBSSLSServlet.java:60][XML Recibido: 
+	
+	<?xml version="1.0" encoding="utf-8"?><RTBS_SLS_IN><Channel>SIEBEL</Channel><System>SIEBEL</System><SIMCard><IMSI>123456789123456</IMSI></SIMCard></RTBS_SLS_IN>
+	
+	]
+[2015Feb05 17:18:43,556][ERROR][1423172923548][processRequest FCController.java:130][Codigo de Error: 2010 Mensaje de Error: ]
+org.jdom.input.JDOMParseException: Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:504)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	... 18 more
+Caused by: org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at weblogic.apache.xerces.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1189)
+	at weblogic.xml.jaxp.WebLogicXMLReader.parse(WebLogicXMLReader.java:135)
+	at weblogic.xml.jaxp.RegistryXMLReader.parse(RegistryXMLReader.java:152)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:489)
+	at org.jdom.input.SAXBuilder.build(SAXBuilder.java:888)
+	at ve.com.digitel.rtbssls.fc.XmlToRequest.run(XmlToRequest.java:58)
+	at ve.com.digitel.rtbssls.fc.FCHelper.buildRequest(FCHelper.java:62)
+	at ve.com.digitel.rtbssls.fc.FCController.processRequest(FCController.java:126)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doPost(RTBSSLSServlet.java:64)
+	at RTBS_SimCardLookupService.RTBSSLSServlet.doGet(RTBSSLSServlet.java:47)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at weblogic.servlet.internal.ServletStubImpl$ServletInvocationAction.run(ServletStubImpl.java:1072)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:465)
+	at weblogic.servlet.internal.ServletStubImpl.invokeServlet(ServletStubImpl.java:348)
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:6981)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:121)
+	at weblogic.servlet.internal.WebAppServletContext.invokeServlet(WebAppServletContext.java:3892)
+	at weblogic.servlet.internal.ServletRequestImpl.execute(ServletRequestImpl.java:2766)
+	at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:224)
+	at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:183)
+[2015Feb05 17:18:43,560][INFO ][1423172923548][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<Error>
+		<Code>2010</Code>
+		<Detail>Error on line 3: The processing instruction target matching "[xX][mM][lL]" is not allowed.</Detail>
+		<Trace></Trace>
+		<From></From>
+	</Error>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:24:19,298][INFO ][1423173259297][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:24:19,309][INFO ][1423173259297][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:24:22,024][INFO ][1423173262024][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:24:22,036][INFO ][1423173262024][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:27:14,079][INFO ][1423173434079][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:27:14,091][INFO ][1423173434079][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:50:51,184][INFO ][1423174851184][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:50:51,196][INFO ][1423174851184][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:50:53,191][INFO ][1423174853191][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:50:53,204][INFO ][1423174853191][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:52:35,711][INFO ][1423174955711][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:52:35,724][INFO ][1423174955711][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:56:27,825][INFO ][1423175187825][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:56:27,837][INFO ][1423175187825][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 17:59:43,792][INFO ][1423175383792][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 17:59:43,804][INFO ][1423175383792][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:00:03,376][INFO ][1423175403376][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:00:03,388][INFO ][1423175403376][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:00:05,396][INFO ][1423175405396][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:00:05,408][INFO ][1423175405396][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:01:04,586][INFO ][1423175464586][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:01:04,599][INFO ][1423175464586][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:02:17,637][INFO ][1423175537637][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:02:17,649][INFO ][1423175537637][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:02:19,620][INFO ][1423175539620][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:02:19,632][INFO ][1423175539620][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:03:15,863][INFO ][1423175595862][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:03:15,876][INFO ][1423175595862][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:04:15,373][INFO ][1423175655373][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:04:15,386][INFO ][1423175655373][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:04:58,360][INFO ][1423175698360][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734027003979020</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:04:58,372][INFO ][1423175698360][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304090763022F</ICCID>
+		<PUK>64320401</PUK>
+		<PUK2>22029549</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:05:00,402][INFO ][1423175700402][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734027003979020</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:05:00,414][INFO ][1423175700402][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304090763022F</ICCID>
+		<PUK>64320401</PUK>
+		<PUK2>22029549</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:05:58,587][INFO ][1423175758587][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734027003979020</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:05:58,599][INFO ][1423175758587][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958021304090763022F</ICCID>
+		<PUK>64320401</PUK>
+		<PUK2>22029549</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:07:58,456][INFO ][1423175878456][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:07:58,469][INFO ][1423175878456][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:08:00,746][INFO ][1423175880746][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:08:00,759][INFO ][1423175880746][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:10:06,800][INFO ][1423176006800][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:10:06,812][INFO ][1423176006800][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:15:40,135][INFO ][1423176340135][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:15:40,147][INFO ][1423176340135][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:15:42,128][INFO ][1423176342128][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:15:42,140][INFO ][1423176342128][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:16:40,988][INFO ][1423176400988][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:16:41,000][INFO ][1423176400988][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:17:05,611][INFO ][1423176425611][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:17:05,623][INFO ][1423176425611][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:17:07,663][INFO ][1423176427663][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:17:07,675][INFO ][1423176427663][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:17:19,015][INFO ][1423176439014][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:17:19,028][INFO ][1423176439014][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:18:28,195][INFO ][1423176508195][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:18:28,208][INFO ][1423176508195][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:20:50,536][INFO ][1423176650536][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:20:50,549][INFO ][1423176650536][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:22:54,310][INFO ][1423176774310][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:22:54,324][INFO ][1423176774310][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:22:56,773][INFO ][1423176776773][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:22:56,786][INFO ][1423176776773][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:23:41,298][INFO ][1423176821298][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:23:41,310][INFO ][1423176821298][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:23:43,278][INFO ][1423176823278][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:23:43,291][INFO ][1423176823278][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:31:03,584][INFO ][1423177263584][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:31:03,598][INFO ][1423177263584][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:36:03,313][INFO ][1423177563313][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:36:03,326][INFO ][1423177563313][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:36:05,733][INFO ][1423177565733][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:36:05,745][INFO ][1423177565733][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:40:45,439][INFO ][1423177845439][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734024011104784</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:40:45,452][INFO ][1423177845439][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020912210658806F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:40:48,988][INFO ][1423177848988][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734024011104784</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:40:49,001][INFO ][1423177848988][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020912210658806F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:40:57,907][INFO ][1423177857907][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734024011104784</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:40:57,919][INFO ][1423177857907][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020912210658806F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:41:00,467][INFO ][1423177860466][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734024011104784</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:41:00,479][INFO ][1423177860466][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020912210658806F</ICCID>
+		<PUK>13527110</PUK>
+		<PUK2>41018048</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:41:07,340][INFO ][1423177867340][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:41:07,352][INFO ][1423177867340][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:42:59,203][INFO ][1423177979203][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:42:59,214][INFO ][1423177979203][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:43:01,564][INFO ][1423177981564][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:43:01,576][INFO ][1423177981564][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:44:42,199][INFO ][1423178082199][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:44:42,211][INFO ][1423178082199][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:50:31,383][INFO ][1423178431383][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:50:31,396][INFO ][1423178431383][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 18:56:25,592][INFO ][1423178785592][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>ASWEB</Channel>
+	<System>ASWEB</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 18:56:25,604][INFO ][1423178785592][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 19:04:13,600][INFO ][1423179253600][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 19:04:13,613][INFO ][1423179253600][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
+[2015Feb05 19:04:14,379][INFO ][1423179254379][doPost RTBSSLSServlet.java:60][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_IN>
+	<Login></Login>
+	<Channel>FEATC</Channel>
+	<System>FEATC</System>
+<SIMCard>
+	<IMSI>734021016547362</IMSI>
+</SIMCard>
+</RTBS_SLS_IN>
+]
+[2015Feb05 19:04:14,391][INFO ][1423179254379][doPost RTBSSLSServlet.java:73][Response Generado: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_SLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_SLS-OM0001</Code>
+		<Message>Operacion ejecutada de forma exitosa</Message>
+	</OperationMessage>
+	<SIMCard>
+		<ICCID>8958020711020529557F</ICCID>
+		<PUK>07928626</PUK>
+		<PUK2>60730484</PUK2>
+	</SIMCard>
+</RTBS_SLS_OUT>
+]
